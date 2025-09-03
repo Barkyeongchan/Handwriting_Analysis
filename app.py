@@ -31,4 +31,5 @@ iface = gr.Interface(
     description="업로드한 이미지를 보고 내 글씨인지 다른 사람 글씨인지 판별합니다."
 )
 
-iface.launch()
+if __name__ == "__main__":
+    iface.launch(server_name="0.0.0.0", server_port=7860)
