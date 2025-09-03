@@ -2,3 +2,4 @@ handwriting/
 handwriting_dataset/
 my_handwriting_model.h5
 handwriting_dataset_resized/
+img/
