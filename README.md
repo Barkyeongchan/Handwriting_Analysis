@@ -35,7 +35,15 @@
 
 `이미지 패딩` : 이미지를 원하는 크기/비율로 맞추기 위해 **빈 공간을 추가**하는 과정
 
+<img width="354" height="295" alt="image" src="https://github.com/user-attachments/assets/666beee6-fe0c-42be-a5d2-09ac8a0d9d05" />
 
+<img width="354" height="295" alt="image" src="https://github.com/user-attachments/assets/dbc38c40-6b2a-4b10-8155-55c5185cf54c" />
+
+<br><br>
+
+<img width="354" height="295" alt="image" src="https://github.com/user-attachments/assets/430989d9-00f2-453c-aae4-ad9e696651d3" />
+
+<img width="354" height="295" alt="image" src="https://github.com/user-attachments/assets/e9a3d275-6311-459e-85c9-84b1d17f8827" />
 
 ```python
 import cv2
@@ -211,3 +219,6 @@ test_6.png에서 test_10.png까지는 다른 사람의 글씨체
 '''
 ```
 
+<img width="685" height="211" alt="image" src="https://github.com/user-attachments/assets/ba46e93b-2de6-4f7b-a461-1128fbeacf00" />
+
+<img width="437" height="347" alt="image" src="https://github.com/user-attachments/assets/566b3d67-6ff9-4a54-9e7f-d83c757d6743" />
